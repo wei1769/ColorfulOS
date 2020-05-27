@@ -1,0 +1,9 @@
+Package: com.williamlin910403.colorfulos
+Name: ColorfulOS
+Depends: mobilesubstrate, com.spark.snowboard |  com.anemonetheming.anemone
+Architecture: iphoneos-arm
+Description: icon made by my GF
+Maintainer:Wei 
+Author: Wei
+Section: Themes
+Version: 1.0.0
